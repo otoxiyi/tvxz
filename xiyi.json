@@ -20,16 +20,6 @@
       "ext": "./lib/yinghua.json"
     },
     {
-      "key": "yinghua2",
-      "name": "***┃樱花2┃本地",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/yinghua2.json"
-    },
-    {
       "key": "NyaFun",
       "name": "***┃NyaFun┃本地",
       "type": 3,

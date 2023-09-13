@@ -3,7 +3,6 @@
   "homeUrl": "http://www.iyinghua.com",
   "cateManual": {"国产动漫":"guochandongman","日本动漫":"ribendongman","美国动漫":"meiguodongman","动漫电影":"movie","亲子动漫":"qinzi"},
 
-// Home Summary ====================================================
   "homeVodNode": "//div[@class='img']/ul/li",
   "homeVodName": "/p[@class='tname']/a/text()",
   "homeVodNameR": "",
@@ -13,7 +12,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/p[contains(text(),'最新')]/a/text()",
   "homeVodMarkR": "",
-// Home Summary ====================================================
+
   "cateUrl": "http://www.iyinghua.com/{cateId}/",
   "cateVodNode": "//div[@class='imgs']/ul/li",
   "cateVodName": "/p[@class='tname']/a/text()",
