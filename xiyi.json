@@ -33,7 +33,7 @@
       "key": "NyaFun",
       "name": "***┃NyaFun┃本地",
       "type": 3,
-      "api": "./lib/ddrpy2.m.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
