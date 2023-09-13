@@ -30,6 +30,13 @@
       "ext": "./lib/NyaFun.js"
     },
     {
+      "key": "drpy_js_NyaFun",
+      "name": "***┃NyaFun动漫",
+      "type": 3,
+      "api": "./lib/ddrpy2.m.js",
+      "ext": "./lib/NyaFun2.js"
+    },
+    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
