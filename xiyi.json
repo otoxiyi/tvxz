@@ -10,6 +10,36 @@
       "filterable": 0
     },
     {
+      "key": "csp_xp_yinghua",
+      "name": "***┃樱花┃老刘备",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/yinghua.json"
+    },
+    {
+      "key": "yinghua2",
+      "name": "***┃樱花2┃本地",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/yinghua2.json"
+    },
+    {
+      "key": "NyaFun",
+      "name": "***┃NyaFun┃本地",
+      "type": 3,
+      "api": "./lib/ddrpy2.m.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/NyaFun.js"
+    },
+    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
