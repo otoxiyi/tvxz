@@ -1,8 +1,9 @@
 {
 
   "ua": "",
-  "homeUrl": "http://www.iyinghua.com",
+  "homeUrl": "http://www.yinghuacd.com",
   "cateManual": {"国产动漫":"guochandongman","日本动漫":"ribendongman","美国动漫":"meiguodongman","动漫电影":"movie","亲子动漫":"qinzi"},
+
 
   "homeVodNode": "//div[@class='img']/ul/li",
   "homeVodName": "/p[@class='tname']/a/text()",
@@ -13,16 +14,18 @@
   "homeVodImgR": "",
   "homeVodMark": "/p[contains(text(),'最新')]/a/text()",
   "homeVodMarkR": "",
+  
 
-  "cateUrl": "http://www.iyinghua.com/{cateId}/{catePg}.html",
+  "cateUrl": "http://www.yinghuacd.com/{cateId}/",
   "cateVodNode": "//div[@class='lpic']/ul/li",
   "cateVodName": "/a/img/@alt",
   "cateVodId": "/a/@href",
   "cateVodIdR": "/show/(\\w+).html",
   "cateVodImg": "/a/img/@src",
   "cateVodMark": "/span/font/text()",
+  
 
-  "dtUrl": "http://www.iyinghua.com/show/{vid}.html",
+  "dtUrl": "http://www.yinghuacd.com/show/{vid}.html",
   "dtNode": "//div[@class='fire l']",
   "dtName": "//div[@class='thumb l']/img/@alt",
   "dtNameR": "",
@@ -38,6 +41,7 @@
   "dtMarkR": "",
   "dtDesc": "//div[@class='info']/text()",
   "dtDescR": "",
+  
 
   "dtFromNode": "//div[contains(@class,'tabs')]/ul[@class='menu0']/li",
   "dtFromName": "/text()",
@@ -47,10 +51,11 @@
   "dtUrlIdR": "/v/(\\S+).html",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "http://www.iyinghua.com/v/{playUrl}.html",
+  "playUrl": "http://www.yinghuacd.com/v/{playUrl}.html",
   "playUa": "",
+  
 
-  "searchUrl": "http://www.iyinghua.com/search/{wd}",
+  "searchUrl": "http://www.yinghuacd.com/search/{wd}",
   "scVodNode": "//div[@class='lpic']/ul/li",
   "scVodName": "/a/img/@alt",
   "scVodId": "/a/@href",
