@@ -934,5 +934,5 @@
   ],
   "wallpaper": "",
   "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "./pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
+  "spider": ["./pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153","./custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e"]
 }
