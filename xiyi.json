@@ -30,14 +30,6 @@
       "ext": "./lib/NyaFun.js"
     },
     {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
