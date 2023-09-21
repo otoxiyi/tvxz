@@ -445,14 +445,14 @@
   ],
   "parses": [
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name": "Json轮询",
@@ -600,36 +600,6 @@
       "name": "随便用",
       "type": 1,
       "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
-    },
-    {
-      "name": "坏了我",
-      "type": 0,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
     }
   ],
   "rules": [
