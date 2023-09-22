@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
+  "spider": "assets://main/fty.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "assets://main/lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -47,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "assets://main/lib/biliych.json"
     },
     {
       "key": "Aid",
@@ -78,8 +78,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "api": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vb3RveGl5aS90dnh6L21haW4vbGliL2RycHkxLm1pbi5qcw==",
-      "ext": "./lib/4khdr.js"
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/4khdr.js"
     },
     {
       "key": "新6V",
@@ -205,8 +205,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/jp.js"
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/jp.js"
     },
     {
       "key": "探探",
@@ -265,7 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "assets://main/lib/nmys.json"
     },
     {
       "key": "Cokemv",
@@ -403,8 +403,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/88看球.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/88看球.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -417,8 +417,8 @@
       "key": "csp_qiumi",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/JRKAN直播.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/JRKAN直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -431,8 +431,8 @@
       "key": "csp_310直播",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/310直播.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -453,7 +453,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/企鹅直播.json"
+      "ext": "assets://main/lib/企鹅直播.json"
     },
     {
       "key": "MV_vod",
@@ -471,8 +471,8 @@
       "key": "酷奇js",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -485,8 +485,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/虎牙直播.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/虎牙直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -499,8 +499,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -513,8 +513,8 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/短视频.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -523,8 +523,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -624,8 +624,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy1.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "assets://main/lib/drpy1.min.js",
+      "ext": "assets://main/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -646,7 +646,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "assets://main/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -660,7 +660,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "assets://main/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -674,7 +674,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "assets://main/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -688,7 +688,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "assets://main/lib/高中课堂.json"
     }
   ],
   "parses": [
@@ -986,7 +986,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "assets://main/lib/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
