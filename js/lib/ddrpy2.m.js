@@ -1,6 +1,6 @@
-import cheerio from "./lib/cheerio.min.js";
-import "./lib/crypto-js.js";
-import 模板 from "./lib/%E6%A8%A1%E6%9D%BF.js";
+import cheerio from "assets://js/lib/cheerio.min.js";
+import "assets://js/lib/crypto-js.js";
+import 模板 from "assets://js/lib/%E6%A8%A1%E6%9D%BF.js";
 
 function init_test() {
     console.log("init_test_start");
