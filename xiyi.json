@@ -24,15 +24,15 @@
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/drpy1.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/jp.js"
+      "api": "drpy1.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "磁力熊",
       "name": "🐻┃熊熊┃磁力",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/ddrpy2.m.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/磁力熊.js",
+      "api": "ddrpy2.m.js",
+      "ext": "./lib/磁力熊.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -42,14 +42,14 @@
       "name": "🦢┃素白┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/素白白.json"
+      "ext": "./lib/素白白.json"
     },
     {
       "key": "虎虎",
       "name": "🐯┃虎虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/虎虎.json"
+      "ext": "./lib/虎虎.json"
     },
     {
       "key": "熊猫",
@@ -196,8 +196,8 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🐨┃爱奇┃官源",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/ddrpy2.m.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/爱奇.js"
+      "api": "drpy1.min.js",
+      "ext": "./lib/爱奇.js"
     },
     {
       "key": "Qtv",
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/360影视.json"
+      "ext": "./lib/360影视.json"
     },
     {
       "key": "MGT",
@@ -282,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/alist.json"
+      "ext": "./lib/alist.json"
     },
     {
       "key": "csp_search_PanSearch",
@@ -345,7 +345,7 @@
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/bili.json"
+      "ext": "./lib/bili.json"
     },
     {
       "key": "演唱会",
@@ -354,7 +354,7 @@
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/ych.json"
+      "ext": "./lib/ych.json"
     },
     {
       "key": "csp_XYQBiu_聚合短视频",
@@ -364,7 +364,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/短视频.json"
+      "ext": "./lib/短视频.json"
     },
     {
       "key": "csp_Nbys",
@@ -417,7 +417,7 @@
       "key": "ext_live_protocol",
       "name": "接口不定时更新",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/协议.js",
+      "api": "./lib/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     }
   ],
@@ -426,7 +426,7 @@
       "name": "live",
       "type": 0,
       "playerType": 1,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/lib/tvzb.txt",
+      "url": "./lib/tvzb.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -645,7 +645,7 @@
     {
       "host": "dyxs20.com",
       "rule": [
-        "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/tvxzm3u8"
+        ".m3u8"
       ]
     },
     {
@@ -915,5 +915,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/otoxiyi/tvxz/main/pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
+  "spider": "./pandaQ230823.jar;md5;094B4D3625D42893F683CC2E95311153"
 }
