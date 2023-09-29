@@ -196,7 +196,7 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🐨┃爱奇┃官源",
       "type": 3,
-      "api": "./lib/ddrpy2.m.js",
+      "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "./lib/爱奇.js"
     },
     {
